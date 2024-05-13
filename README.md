@@ -16,6 +16,7 @@
 
 ## Connect with me:
 
+[<img align="left" alt="mail" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />][mail]
 [<img align="left" alt="site" width="30px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="v0idgy | YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 [<img align="left" alt="v0idgy | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -37,6 +38,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="Pytest" width="50" height="50"/>
 </p>
 
+[mail]: mailto:dev.lymar@gmail.com
 [website]: https://github.com/devlymar
 [telegram]: https://#
 [linkedin]: https://#
