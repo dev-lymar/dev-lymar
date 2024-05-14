@@ -3,16 +3,15 @@
 
 ## <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="50" /> About Me:
 
-- I am actively involved in backend development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- My passion for technology and my desire to deeply understand how it works led me to the IT world, where I discovered my calling 🌱
-- Here you can find examples of my work and projects 💻:
+- I’m dedicated to backend development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and driven by a passion for technology, which guided me to my vocation in IT 🌱
+- **Portfolio Showcase** 💻:
   - [DRF - Service | Melnichanka](https://github.com/devlymar/Melnichanka)
-    - A professionally developed web application designed to accelerate the process of submitting shipment applications. The automation of document generation based on data about goods, brands, manufacturers, and packaging allows managers to significantly enhance work efficiency, minimize the likelihood of errors, and save company time and resources.
-    - Technologies Used: Python, Django Rest Framework, PostgreSQL, Docker-compose, Nginx, Psycopg2-binary, Gunicorn, PyJWT, Mypy, CI/CD GitHub Actions
+    - This is a web application designed to optimize the process of submitting shipping requests. It automates the creation of documents based on pre-designed templates, followed by their conversion into Excel files and delivery to recipients via email.
+    - **Technology Stack**: Python, Django Rest Framework, PostgreSQL, Docker-compose, Nginx, Psycopg2-binary, Gunicorn, PyJWT, Mypy, CI/CD GitHub Actions
   - [Django | Online-store](https://github.com/devlymar/django-store-server)
-    - Django Store Server is an online store project designed for seamless shopping experiences. It offers a user-friendly interface, a comprehensive product catalog, secure payment processing, and straightforward order management. The primary objective is to create a reliable platform that ensures convenience and security for online shoppers.
-    - Technologies Used: Python, PostgreSQL, Redis, Celery, Docker-compose, Nginx, Psycopg2-binary, Gunicorn, Stripe, GitHub Actions
-- My experience allows me to work effectively in a team, adapting to various communication styles and skillfully interacting with colleagues to achieve common goals. My aim is to facilitate efficient collaboration among process participants, resulting in optimal outcomes. I am open to discussing and accepting feedback, as I believe it is an integral part of professional growth 💼
+    - This is an e-commerce project. It offers the creation of a reliable platform with a user-friendly interface, product catalog, secure payment processing, and straightforward order management.
+    - **Technology Stack**: Python, PostgreSQL, Redis, Celery, Docker-compose, Nginx, Psycopg2-binary, Gunicorn, Stripe, GitHub Actions
+- My team-oriented approach and adaptability ensure effective collaboration and achievement of shared objectives. I value feedback as a cornerstone of professional development 💼
 
 ## Connect with me:
 
